@@ -5,6 +5,8 @@ This is a simple Python Script which takes in the IP addresses as the Input and 
 
 Note: The script does not validate the IP address format(for eg 3 octets). Error handling is not embedded in this scrip.
 
+
+
 Example Input:
 Enter the number of IPs to test 2
 
@@ -20,13 +22,14 @@ PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
 64 bytes from 1.1.1.1: icmp_seq=1 ttl=54 time=1.45 ms
 
 --- 1.1.1.1 ping statistics ---
+
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 1.458/1.458/1.458/0.000 ms
 1.1.1.1 is up!
 ================================
+
 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 64 bytes from 8.8.8.8: icmp_seq=1 ttl=51 time=0.807 ms
 
 --- 8.8.8.8 ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 0.807/0.807/0.807/0.000 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0
