@@ -25,6 +25,8 @@ PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 1.458/1.458/1.458/0.000 ms
 1.1.1.1 is up!
+
+
 ================================
 
 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
