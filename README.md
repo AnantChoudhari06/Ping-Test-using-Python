@@ -22,7 +22,6 @@ PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
 64 bytes from 1.1.1.1: icmp_seq=1 ttl=54 time=1.45 ms
 
 --- 1.1.1.1 ping statistics ---
-
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 1.458/1.458/1.458/0.000 ms
 1.1.1.1 is up!
@@ -33,3 +32,4 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 
 --- 8.8.8.8 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0
+8.8.8.8 is up!
